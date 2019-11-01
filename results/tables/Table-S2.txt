@@ -1,0 +1,19 @@
+Genera	sequencing run #1	sequencing run #2	expected abundances
+Staphylococcus	30.23%	31.69%	29.80%
+Streptococcus	28.53%	29.12%	29.80%
+Porphyromonas	28.35%	26.88%	18.00%
+Rhodobacter	1.60%	1.82%	18.00%
+Escherichia/Shigella	0.95%	0.65%	18.00%
+Clostridium_sensu_stricto_1	6.76%	6.92%	1.80%
+Bacillus	2.49%	1.90%	1.80%
+Pseudomonas	0.05%	0.04%	1.80%
+Lactobacillus	0.33%	0.33%	0.18%
+Neisseria	0.26%	0.25%	0.18%
+Helicobacter	0.13%	0.15%	0.18%
+Cutibacterium	0.12%	0.13%	0.18%
+Acinetobacter	0.01%	0.01%	0.18%
+Bacteroides	0.05%	0.05%	0.02%
+Enterococcus	0.02%	0.02%	0.02%
+Deinococcus	0.01%	0.02%	0.02%
+Actinomyces	0.01%	0.01%	0.02%
+Bifidobacterium adolescentis 	0.00%	0.00%	0.02%
